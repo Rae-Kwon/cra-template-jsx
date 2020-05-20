@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Create React App template with jsx extension and enzyme testing enabled [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
